@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TRiedel94
-- 👀 I’m interested in Mobile Developing and Flutter
+- 👀 I’m interested in Mobile Development and Flutter
 - 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on nothing RN
 - 📫 How to reach me ...
